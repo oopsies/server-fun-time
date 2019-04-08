@@ -1,0 +1,26 @@
+# Command options
+commands:
+  config:
+    cost: 0
+    cooldown: 1
+  get:
+    cost: 0
+    cooldown: 1
+  give:
+    cost: 0
+    cooldown: 1
+  help:
+    cost: 0
+    cooldown: 1
+  list:
+    cost: 0
+    cooldown: 1
+  reload:
+    cost: 0
+    cooldown: 1
+  remove:
+    cost: 0
+    cooldown: 1
+  set:
+    cost: 0
+    cooldown: 1

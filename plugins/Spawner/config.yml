@@ -1,0 +1,17 @@
+# Spawner 3 config file
+version: 3.0.2
+economy: false
+tabcomplete: false
+cooldown: false
+search_distance: 20
+drops: {}
+frequency: 100
+luck: 100
+remove_radius: 10
+protect_from_explosions: true
+drop_from_explosions: false
+break_into_inventory: false
+prevent_break_if_inventory_full: false
+power_with_redstone: false
+set_cost: 0
+give_cost: 0

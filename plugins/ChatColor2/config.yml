@@ -1,0 +1,55 @@
+settings:
+  rainbow-sequence: abcde
+  join-message: false
+  color-override: true
+  command-name: chatcolor
+  notify-others: true
+  auto-save: true
+  default-color: '&f'
+  confirm-timeout: 10
+messages:
+  failed-to-enable: Failed to enable the plugin. Please try again, making sure all
+    folders are not locked.
+  prefix: '&5&l[&6Chat&aC&bo&cl&do&er&5&l] &e'
+  invalid-setting: '&cInvalid setting: &e'
+  reloaded-messages: Reloaded messages!
+  no-color-perms: '&cYou do not have permission to use the color: &'
+  did-not-confirm: '&cYou did not confirm in time. &eNothing has been changed.'
+  successfully-enabled: The plugin has been successfully enabled.
+  too-many-args: '&cToo many arguments!'
+  already-set: '&cThat value is already set!'
+  no-permissions: '&cYou do not have permission to use that command.'
+  set-own-color: 'Successfully set your color to: '
+  set-others-color: 'Successfully set &c[player]''s &ecolor to: '
+  confirm: Are you sure you want to do that? Type &c/confirm &eif you are sure.
+  internal-error: '&cInternal error. Please check the console for details.'
+  already-enabled: The plugin is already enabled.
+  player-set-your-color: '&c[player] &eset your color to: '
+  players-only: '&cThis command can only be run by players.'
+  needs-boolean: '&cThat setting requires a boolean! &eUse either &aTRUE &eor &cFALSE'
+  is-currently: ' &eis currently: '
+  help: '&eType &c/chatcolor cmdhelp &eto see valid colors, modifiers and settings!'
+  needs-number: '&cThat setting requires a number!'
+  to-change: 'You are changing it to: '
+  invalid-command: '&cThat is an invalid command!'
+  no-mod-perms: '&cYou do not have permission to use the modifier: &e&'
+  error-details: 'Error details: '
+  not-enough-args: '&cNot enough arguments!'
+  plugin-disabled: The plugin has been disabled. Please type §b/chatcolor enable §eto
+    attempt to re-enable.
+  already-confirming: '&cYou cannot do that until you have confirmed or waited.'
+  invalid-color: '&cInvalid color: &e'
+  colour-already-set: '&cColour already selected!'
+  current-color: 'Your color is currently: '
+  invalid-modifier: '&cInvalid modifier: &e'
+  command-exists: '&cThat command already exists!'
+  player-not-joined: '&cThat player has not joined yet!'
+  gui-modifier-enabled: '&aEnabled &e'
+  this: this
+  gui-unavailable: '&cUnavailable'
+  nothing-to-confirm: '&cYou have nothing to confirm!'
+  gui-color-set: '&aColour set to '
+  gui-modifier-disabled: '&cDisabled &e'
+loaded: true
+stats: true
+version: 1.7.6

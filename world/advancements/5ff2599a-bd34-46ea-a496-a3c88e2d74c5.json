@@ -660,17 +660,17 @@
       "minecraft:ghast": "2019-02-02 01:46:49 -0600",
       "minecraft:cave_spider": "2019-01-28 19:06:35 -0600",
       "minecraft:guardian": "2019-03-29 21:12:43 -0500",
-      "minecraft:silverfish": "2019-02-10 13:05:33 -0600",
-      "minecraft:enderman": "2019-01-28 01:10:10 -0600",
       "minecraft:vindicator": "2019-03-29 23:17:18 -0500",
+      "minecraft:enderman": "2019-01-28 01:10:10 -0600",
+      "minecraft:silverfish": "2019-02-10 13:05:33 -0600",
       "minecraft:magma_cube": "2019-02-02 01:26:25 -0600",
       "minecraft:spider": "2019-01-28 00:32:35 -0600",
       "minecraft:zombie": "2019-01-27 23:30:04 -0600",
-      "minecraft:creeper": "2019-01-28 00:29:52 -0600",
       "minecraft:drowned": "2019-02-08 15:20:23 -0600",
+      "minecraft:creeper": "2019-01-28 00:29:52 -0600",
       "minecraft:zombie_villager": "2019-01-28 00:08:32 -0600",
-      "minecraft:slime": "2019-02-04 20:58:19 -0600",
-      "minecraft:evoker": "2019-03-29 23:20:06 -0500"
+      "minecraft:evoker": "2019-03-29 23:20:06 -0500",
+      "minecraft:slime": "2019-02-04 20:58:19 -0600"
     },
     "done": false
   },
@@ -1175,8 +1175,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-02-08 15:24:17 -0600",
-      "minecraft:mountains": "2019-01-27 18:07:24 -0600",
       "minecraft:forest": "2019-01-27 18:07:15 -0600",
+      "minecraft:mountains": "2019-01-27 18:07:24 -0600",
       "minecraft:taiga": "2019-02-04 20:58:51 -0600",
       "minecraft:desert_hills": "2019-02-04 21:17:24 -0600",
       "minecraft:giant_tree_taiga": "2019-02-04 20:59:34 -0600",
@@ -1192,8 +1192,8 @@
       "minecraft:savanna_plateau": "2019-04-07 01:49:38 -0500",
       "minecraft:beach": "2019-02-02 02:15:03 -0600",
       "minecraft:dark_forest": "2019-01-27 18:08:13 -0600",
-      "minecraft:lukewarm_ocean": "2019-02-09 15:44:04 -0600",
       "minecraft:river": "2019-01-28 00:57:00 -0600",
+      "minecraft:lukewarm_ocean": "2019-02-09 15:44:04 -0600",
       "minecraft:birch_forest_hills": "2019-02-04 21:07:36 -0600",
       "minecraft:wooded_mountains": "2019-01-27 18:08:19 -0600",
       "minecraft:wooded_hills": "2019-02-04 20:50:02 -0600",
